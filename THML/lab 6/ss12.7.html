@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+function numericonly()
+{
+if(!event.keycode >=48 && event.keycode<=57))
+event.returnValue=false;
+}
+function countWords()
+{
+var message=document.getElementByID('txtMessage').value;
+message=message.replace(/\s+/g,'');
+var numberOFWords=message.split('').length;
+document.getElementByID('txtTrack').value=words Remaining:'+
+eval(50-numberOfWords);
+if(numberOfWords>50)
+alert("too many words.');
+}
+
+</body>
+</html>
