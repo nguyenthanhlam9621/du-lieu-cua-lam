@@ -11,7 +11,7 @@ public class Main {
         String input;
         System.out.println("===== Analysis Path Program =====");
         do{
-            String PathProgram="[A-Z][:]\\\\\\w+(\\\\\\w+[.]\\w+)?";
+            String PathProgram="[A-Z][:](\\\\\\w+)+(\\\\\\w+[.]\\w+)?";
             System.out.print("Please input Path: ");
             input= sc.next();
             flag =input.matches(PathProgram);
