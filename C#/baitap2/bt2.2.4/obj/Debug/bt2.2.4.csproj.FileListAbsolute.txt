@@ -1,0 +1,6 @@
+D:\hoc hanh\ky 2\C#\baitap2\bt2.2.4\bin\Debug\bt2.2.4.exe.config
+D:\hoc hanh\ky 2\C#\baitap2\bt2.2.4\bin\Debug\bt2.2.4.exe
+D:\hoc hanh\ky 2\C#\baitap2\bt2.2.4\bin\Debug\bt2.2.4.pdb
+D:\hoc hanh\ky 2\C#\baitap2\bt2.2.4\obj\Debug\bt2.2.4.csproj.CoreCompileInputs.cache
+D:\hoc hanh\ky 2\C#\baitap2\bt2.2.4\obj\Debug\bt2.2.4.exe
+D:\hoc hanh\ky 2\C#\baitap2\bt2.2.4\obj\Debug\bt2.2.4.pdb
