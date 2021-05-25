@@ -1,6 +1,0 @@
-D:\hoc hanh\ky 2\C#\baitap2\bai2.3\bin\Debug\bai2.3.exe.config
-D:\hoc hanh\ky 2\C#\baitap2\bai2.3\bin\Debug\bai2.3.exe
-D:\hoc hanh\ky 2\C#\baitap2\bai2.3\bin\Debug\bai2.3.pdb
-D:\hoc hanh\ky 2\C#\baitap2\bai2.3\obj\Debug\bai2.3.csproj.CoreCompileInputs.cache
-D:\hoc hanh\ky 2\C#\baitap2\bai2.3\obj\Debug\bai2.3.exe
-D:\hoc hanh\ky 2\C#\baitap2\bai2.3\obj\Debug\bai2.3.pdb
