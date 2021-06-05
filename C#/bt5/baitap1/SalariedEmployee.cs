@@ -23,7 +23,7 @@ namespace baitap1
         {
             return SSN + "\t" + FirstName + "\t\t" + LastName + "\t\t" +
                    BirthDate.ToString("dd-MM-yyyy") + "\t" + Phone + "\t" + Email + "\t" +
-                   CommissionRate + "\t" + GrossSales + "\t" + BasicSalary;
+                   CommissionRate + "\t\t\t" + GrossSales + " " + BasicSalary;
         }
     }
 }
